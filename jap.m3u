@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:0, Australia Plus Asia
+http://streamindo2.ddns.net/jhos/aplus/asia/playlist.m3u8 
+#EXTINF:0, Aniplus
+http://streamindo2.ddns.net/jhos/aniplus/asia/playlist.m3u8
+#EXTINF:0, Fashion TV Asia
+http://streamindo2.ddns.net/jhos/fashiontv/asia/playlist.m3u8
+#EXTINF:0, Fight Sport
+http://streamindo2.ddns.net/jhos/fight/asia/playlist.m3u8
+#EXTINF:0, KBS World SD
+http://streamindo2.ddns.net/jhos/kbs/asia/playlist.m3u8
+#EXTINF:0, Li TV
+http://streamindo2.ddns.net/jhos/litv/asia/playlist.m3u8
