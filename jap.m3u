@@ -14,29 +14,29 @@ http://streamindo2.ddns.net/jhos/kbs/asia/playlist.m3u8
 http://streamindo2.ddns.net/jhos/litv/asia/playlist.m3u8
 #EXTINF:0, NHK World HD +2
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_NHK/bw1500000/variant.m3u8?version=2
-#EXTINF:0,TV Tokyo
+#EXTINF:0, TV Tokyo
 http://stream6.mov3.co/hls/kanto2.m3u8
-#EXTINF:0,NTV
+#EXTINF:0, NTV
 http://stream2.mov3.co/hls/kanto.m3u8
-#EXTINF:0,Asahi
+#EXTINF:0, Asahi
 http://stream7.mov3.co/hls/kanto3.m3u8
-#EXTINF:0,Kansai TV
+#EXTINF:0, Kansai TV
 rtmp://66.55.92.162/app/_definst_/kansai-channel
-#EXTINF:0,MBS
+#EXTINF:0, MBS
 rtmp://66.55.92.162/app/_definst_/sherming8888s-channel
-#EXTINF:0,Diao Maikhrofon 1 (COMEDY)
+#EXTINF:0, Diao Maikhrofon 1 (COMEDY)
 http://uk24.seesantv.com/chmovie/05112/201308021-05112.mp4
-#EXTINF:0,First love (MOVIE)
+#EXTINF:0, First love (MOVIE)
 http://uk25.seesantv.com/chmovie/05412/201312111-05412.mp4
-#EXTINF:0,Grean Fictions (MOVIE)
+#EXTINF:0, Grean Fictions (MOVIE)
 http://uk23.seesantv.com/chmovie/05095/201307261-05095.mp4
-#EXTINF:0,Malimar Thai Music (Thai)
+#EXTINF:0, Malimar Thai Music (Thai)
 http://dalorigin00.malimarcdn.com:1935/ftaorigin/_definst_/MalimarMHD.sdp/playlist.m3u8
-#EXTINF:0,Sailap Chap Ban Lek (MOVIE)
+#EXTINF:0, Sailap Chap Ban Lek (MOVIE)
 http://uk1.seesantv.com/chmovie/00806/201312291-00806.mp4
-#EXTINF:0,TVK
+#EXTINF:0, TVK
 http://live.khmer.be:1935/live/TVK/BratuMarian.m3u8
-#EXTINF:0,YAEM YASOTHON 3 (MOVIE)
+#EXTINF:0, YAEM YASOTHON 3 (MOVIE)
 http://uk12.seesantv.com/chmovie/05375/201311241-05375.mp4
 #EXTINF:0, Arirang
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
