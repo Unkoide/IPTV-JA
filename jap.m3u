@@ -46,3 +46,31 @@ http://stream6.mov3.co/hls/kanto2.m3u8
 http://stream2.mov3.co/hls/kanto.m3u8
 #EXTINF:0, TV Asahi
 http://stream7.mov3.co/hls/kanto3.m3u8
+#EXTINF:0,
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4 turkiye tanitim videosu 
+#EXTINF:0,animax
+rtsp://c.itvitv.com/animaxj.yuwnshydgtrf
+#EXTINF:0,bskids
+rtsp://c.itvitv.com/bskids
+#EXTINF:0,d365
+rtsp://c.itvitv.com/d365
+#EXTINF:0,fns27
+rtsp://2.itvitv.com/fns27
+#EXTINF:0,mega
+rtsp://c.itvitv.com/mega
+#EXTINF:0,mjtv
+rtsp://c.itvitv.com/j.gfhghdayh
+#EXTINF:0,nhk
+rtsp://c.itvitv.com/nhke.huyudfroskrjw
+#EXTINF:0,ntv24t
+rtsp://u.itvitv.com/ntv24t
+#EXTINF:0,plus
+rtsp://2.itvitv.com/plus.iuweynciuweny
+#EXTINF:0,TbsMusicDay
+rtsp://u.itvitv.com/TbsMusicDay
+#EXTINF:0,test2
+rtsp://u.itvitv.com/test2.j
+#EXTINF:0,test3
+rtsp://c.itvitv.com/jp.test3
+#EXTINF:0,wowow
+rtsp://c.itvitv.com/wowow
